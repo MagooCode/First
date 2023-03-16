@@ -1,8 +1,0 @@
-C:\Users\magoo\source\repos\yout hw\bin\Debug\yout hw.exe.config
-C:\Users\magoo\source\repos\yout hw\bin\Debug\yout hw.exe
-C:\Users\magoo\source\repos\yout hw\bin\Debug\yout hw.pdb
-C:\Users\magoo\source\repos\yout hw\obj\Debug\yout hw.csproj.AssemblyReference.cache
-C:\Users\magoo\source\repos\yout hw\obj\Debug\yout hw.csproj.SuggestedBindingRedirects.cache
-C:\Users\magoo\source\repos\yout hw\obj\Debug\yout hw.csproj.CoreCompileInputs.cache
-C:\Users\magoo\source\repos\yout hw\obj\Debug\yout hw.exe
-C:\Users\magoo\source\repos\yout hw\obj\Debug\yout hw.pdb
