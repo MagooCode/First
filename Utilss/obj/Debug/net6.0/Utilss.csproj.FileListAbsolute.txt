@@ -1,0 +1,12 @@
+C:\Users\magoo\source\repos\Utilss\bin\Debug\net6.0\Utilss.deps.json
+C:\Users\magoo\source\repos\Utilss\bin\Debug\net6.0\Utilss.dll
+C:\Users\magoo\source\repos\Utilss\bin\Debug\net6.0\Utilss.pdb
+C:\Users\magoo\source\repos\Utilss\obj\Debug\net6.0\Utilss.csproj.AssemblyReference.cache
+C:\Users\magoo\source\repos\Utilss\obj\Debug\net6.0\Utilss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magoo\source\repos\Utilss\obj\Debug\net6.0\Utilss.AssemblyInfoInputs.cache
+C:\Users\magoo\source\repos\Utilss\obj\Debug\net6.0\Utilss.AssemblyInfo.cs
+C:\Users\magoo\source\repos\Utilss\obj\Debug\net6.0\Utilss.csproj.CoreCompileInputs.cache
+C:\Users\magoo\source\repos\Utilss\obj\Debug\net6.0\Utilss.dll
+C:\Users\magoo\source\repos\Utilss\obj\Debug\net6.0\refint\Utilss.dll
+C:\Users\magoo\source\repos\Utilss\obj\Debug\net6.0\Utilss.pdb
+C:\Users\magoo\source\repos\Utilss\obj\Debug\net6.0\ref\Utilss.dll

@@ -1,0 +1,20 @@
+C:\Users\magoo\source\repos\16.03.2023 hw\bin\Debug\net6.0\16.03.2023 hw.exe
+C:\Users\magoo\source\repos\16.03.2023 hw\bin\Debug\net6.0\16.03.2023 hw.deps.json
+C:\Users\magoo\source\repos\16.03.2023 hw\bin\Debug\net6.0\16.03.2023 hw.runtimeconfig.json
+C:\Users\magoo\source\repos\16.03.2023 hw\bin\Debug\net6.0\16.03.2023 hw.dll
+C:\Users\magoo\source\repos\16.03.2023 hw\bin\Debug\net6.0\16.03.2023 hw.pdb
+C:\Users\magoo\source\repos\16.03.2023 hw\bin\Debug\net6.0\Coree.dll
+C:\Users\magoo\source\repos\16.03.2023 hw\bin\Debug\net6.0\Utilss.dll
+C:\Users\magoo\source\repos\16.03.2023 hw\bin\Debug\net6.0\Coree.pdb
+C:\Users\magoo\source\repos\16.03.2023 hw\bin\Debug\net6.0\Utilss.pdb
+C:\Users\magoo\source\repos\16.03.2023 hw\obj\Debug\net6.0\16.03.2023 hw.csproj.AssemblyReference.cache
+C:\Users\magoo\source\repos\16.03.2023 hw\obj\Debug\net6.0\16.03.2023 hw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\magoo\source\repos\16.03.2023 hw\obj\Debug\net6.0\16.03.2023 hw.AssemblyInfoInputs.cache
+C:\Users\magoo\source\repos\16.03.2023 hw\obj\Debug\net6.0\16.03.2023 hw.AssemblyInfo.cs
+C:\Users\magoo\source\repos\16.03.2023 hw\obj\Debug\net6.0\16.03.2023 hw.csproj.CoreCompileInputs.cache
+C:\Users\magoo\source\repos\16.03.2023 hw\obj\Debug\net6.0\16.03.2023 hw.csproj.CopyComplete
+C:\Users\magoo\source\repos\16.03.2023 hw\obj\Debug\net6.0\16.03.2023 hw.dll
+C:\Users\magoo\source\repos\16.03.2023 hw\obj\Debug\net6.0\refint\16.03.2023 hw.dll
+C:\Users\magoo\source\repos\16.03.2023 hw\obj\Debug\net6.0\16.03.2023 hw.pdb
+C:\Users\magoo\source\repos\16.03.2023 hw\obj\Debug\net6.0\16.03.2023 hw.genruntimeconfig.cache
+C:\Users\magoo\source\repos\16.03.2023 hw\obj\Debug\net6.0\ref\16.03.2023 hw.dll

@@ -1,0 +1,49 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "16.03.2023 hw/1.0.0": {
+        "dependencies": {
+          "Coree": "1.0.0"
+        },
+        "runtime": {
+          "16.03.2023 hw.dll": {}
+        }
+      },
+      "Coree/1.0.0": {
+        "dependencies": {
+          "Utilss": "1.0.0"
+        },
+        "runtime": {
+          "Coree.dll": {}
+        }
+      },
+      "Utilss/1.0.0": {
+        "runtime": {
+          "Utilss.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "16.03.2023 hw/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Coree/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Utilss/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
